@@ -1,0 +1,2 @@
+# LintcodePract
+The Lintcode Practice
